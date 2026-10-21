@@ -1,0 +1,26 @@
+# Flutter build & cache
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+
+# Android build & secrets
+**/.gradle/
+**/local.properties
+**/GeneratedPluginRegistrant.java
+
+# IDE & Editor
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
+.~lock.*
+
